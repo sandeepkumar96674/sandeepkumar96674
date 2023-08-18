@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sandeepkumar96674
+- 👋 Hi, I’m Sandeep Kumar
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning Machine Learning algorithms and Model Building.
 
