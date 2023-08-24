@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sandeep Kumar
-- 👀 I’m interested in Machine Learning and Data Science
+- 👀 I’m interested in Machine Learning , Data Science and DSA
 - 🌱 I’m currently learning Machine Learning algorithms and Model Building.
 
 <!---
