@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sandeep Kumar
 - 👀 I’m interested in Machine Learning , Data Science and DSA
 - 🌱 I’m currently learning Machine Learning algorithms and Model Building.
-- 🚀 connect with me https://www.linkedin.com/in/sandeep-kumar-488a1b222/
+- 🚀 connect with me follow links
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
