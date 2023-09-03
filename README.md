@@ -20,7 +20,7 @@
 
 <!-- icons with padding -->
 
-[1.1]: https://in.images.search.yahoo.com/images/view;_ylt=Awr1QThIavRkUkULoXG9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzZjZWVlMzhhNTYzNDQ1ZjI3ZDljM2RjOWMzNjRkMGNiBGdwb3MDMTEEaXQDYmluZw--?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dinstagram%2Blogo%26type%3DE210IN826G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D11&w=2000&h=1333&imgurl=theroom.com.au%2Fwp-content%2Fuploads%2F2016%2F05%2Finstagram-new-logo.jpg&rurl=https%3A%2F%2Ftheroom.com.au%2Finstagrams-new-logo-love-hate%2F&size=43.1KB&p=instagram+logo&oid=6ceee38a563445f27d9c3dc9c364d0cb&fr2=piv-web&fr=mcafee&tt=Instagram%E2%80%99s+new+logo%3A+Love+it+or+hate+it%3F+-+The+Room&b=0&ni=21&no=11&ts=&tab=organic&sigr=g5rI_ISu.3ne&sigb=hD89lzDW2Ie0&sigi=no90hGOWdXoi&sigt=eGoauDjlP.W_&.crumb=bTfNydjaXPV&fr=mcafee&fr2=piv-web&type=E210IN826G0
+[1.1]: https://tse2.mm.bing.net/th?id=OIP.dsWGMpqtgvW5590uuJ7JkQAAAA&pid=Api&P=0&h=180
 [2.1]: https://tse2.mm.bing.net/th?id=OIP.SP5AjgaqCwsd1UVtScTD5gHaHa&pid=Api&P=0&h=180
 [3.1]: https://tse3.mm.bing.net/th?id=OIP.b5oDvUVU5UVN4cefTJGq3wHaHa&pid=Api&P=0&h=180
 [4.1]: https://tse4.mm.bing.net/th?id=OIP.DENauUixUf2DS-VfgKCXlAHaD2&pid=Api&P=0&h=180
