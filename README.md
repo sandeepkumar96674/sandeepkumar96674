@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sandeep Kumar
 - 👀 I’m interested in Machine Learning , Data Analytics and DSA
 - 🌱 I’m currently learning Machine Learning algorithms and Model Building.
-- 🚀 connect with me :
 <h2>Where you can find me 😉🔍</h2>
     <a href="https://instagram.com/sarcastic_sandy_0_0?igshid=NTc4MTIwNjQ2YQ=="><img src="https://tse2.mm.bing.net/th?id=OIP.dsWGMpqtgvW5590uuJ7JkQAAAA&pid=Api&P=0&h=180" height=50px weight=50px></img></a> &nbsp
     <a href="https://www.hackerrank.com/kumarsandeep1102?hr_r=1"><img src="https://tse2.mm.bing.net/th?id=OIP.SP5AjgaqCwsd1UVtScTD5gHaHa&pid=Api&P=0&h=180" height=50px weight=50px></img></a> &nbsp
