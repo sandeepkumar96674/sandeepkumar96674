@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
 <h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
 <img align="right" alt ="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<p align="left"> <a href="https://instagram.com/sarcastic_sandy_0_0?igshid=NTc4MTIwNjQ2YQ==" target="blank"><img src="https://tse2.mm.bing.net/th?id=OIP.dsWGMpqtgvW5590uuJ7JkQAAAA&pid=Api&P=0&h=180" alt="sarcastic_sandy_0_0" /></a> </p> &nbsp
-📫 How to reach me **sandeepkumar737286@gmail.com**
+<p align="left"> <a href="https://instagram.com/sarcastic_sandy_0_0?igshid=NTc4MTIwNjQ2YQ==" target="blank"><img src="https://komarev.com/ghpvc/?username=sarcastic_sandy_0_0&label=Profile%20views&color=5cc0ff&style=plastic" alt="sarcastic_sandy_0_0" /></a> </p>
+-  📫 How to reach me **sandeepkumar737286@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sandeep-kumar-488a1b222/" target="blank"><img align="center" src="https://tse3.mm.bing.net/th?id=OIP.b5oDvUVU5UVN4cefTJGq3wHaHa&pid=Api&P=0&h=180" alt="sandeep-kumar-488a1b222" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sandeep-kumar-488a1b222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-kumar-488a1b222" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kumarsandeep1102?hr_r=1" target="blank"><img align="center" src="https://tse2.mm.bing.net/th?id=OIP.SP5AjgaqCwsd1UVtScTD5gHaHa&pid=Api&P=0&h=180" alt="kumarsandeep1102" height="30" width="40" /></a>
 <a href="https://leetcode.com/Sandeep_Kumar96674/" target="blank"><img align="center" src="https://tse4.mm.bing.net/th?id=OIP.DENauUixUf2DS-VfgKCXlAHaD2&pid=Api&P=0&h=180" alt="Sandeep_Kumar96674" height="30" width="40" /></a>
 <a href="https://www.codingninjas.com/studio/profile/2cb29e1f-7667-49cc-ac64-4a7467107dc6" target="blank"><img align="center" src="https://tse1.mm.bing.net/th?id=OIP.YGMKfBEvia_lF6TyOdbQfwHaHa&pid=Api&P=0&h=180" alt="Sandeep_Kumar" height="30" width="40" /></a>
