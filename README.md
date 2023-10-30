@@ -25,6 +25,5 @@
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sandeepkumar96674&show_icons=true&theme=synthwave&text_color=ffbb00&hide_border=true&cache_seconds=1800&locale=en" alt="sandeepkumar96674" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepkumar96674&theme=tokyonight" />
-</p>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepkumar96674&theme=tokyonight" />
 </p>
