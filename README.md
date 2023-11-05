@@ -2,6 +2,7 @@
 <h3 align="center">A boy navigating the puzzle of existence !!</h3>
 <h3 align="center">🔭 I’m currently exploring the world of data science and machine learning, eager to apply my skills to real-world challenges. My academic background in [B.Tech,CSE(AI & ML)] has equipped me with a strong foundation in statistics, programming, and problem-solving.</h3>
 <img align="right" alt ="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="200" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepkumar96674&label=Visitors&color=5cc0ff&style=plastic" alt="Sandeep Kumar" /> </p>
 <p align="left"> <a href="https://www.instagram.com/sarcastic_sandy_0_0" target="blank"><img src="https://img.shields.io/badge/Follow-%40sarcastic_sandy_0_0-%23E4405F?style=for-the-badge&logo=instagram" alt="sarcastic_sandy_0_0" /></a> </p>
 
