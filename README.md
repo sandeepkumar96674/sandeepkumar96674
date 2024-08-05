@@ -38,18 +38,20 @@ I'm currently pursuing my B.Tech Computer Science Engineering sepcialization in 
 
 ![](https://github-profile-trophy.vercel.app/?username=sandeepkumar96674&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <div align="center">
+  
 <img src="https://github-profile-trophy.vercel.app/?username=sandeepkumar96674&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
  </div>
-
+<br><br>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sandeepkumar96674&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+ </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sandeepkumar96674&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
+
  <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
