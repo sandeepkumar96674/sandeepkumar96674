@@ -30,7 +30,7 @@
 
 <p>&nbsp;</p>
 
-## 📈 Statistics
+<h3 align="left">Trophy and Achievements:</h3>
 
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
@@ -42,9 +42,6 @@
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Trophy:</h3>
-
 
   
 <div align="center">
