@@ -31,7 +31,7 @@
 <p>&nbsp;</p>
 
 ## 📈 Statistics
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepkumar96674&show_icons=true&locale=en&layout=compact" alt="sandeepkumar96674" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepkumar96674&show_icons=true&locale=en&layout=compact" alt="sandeepkumar96674" /></p>
 
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
@@ -64,7 +64,7 @@
  
 ![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeepkumar96674\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-<center>[![Sandeep's GitHub Streak](https://streak-stats.demolab.com/?user=sandeepkumar96674&theme=midnight-purple)](https://git.io/streak-stats)</center>
+[![Sandeep's GitHub Streak](https://streak-stats.demolab.com/?user=sandeepkumar96674&theme=midnight-purple)](https://git.io/streak-stats)
 
 </div>
 
