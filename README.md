@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
-<h3 align="center">A boy navigating the puzzle of existence !!</h3>
-<h3 align="center">🔭 I’m currently exploring the world of data science and machine learning, eager to apply my skills to real-world challenges. My academic background in [B.Tech,CSE(AI & ML)] has equipped me with a strong foundation in statistics, programming, and problem-solving.</h3><br>
+<h3 align="center">A boy unraveling the mysteries of Entangled Data !!</h3>
+<h3 align="center">🔭 I’m currently exploring the world of Data Analytics and Machine Learning and eager to apply my skills to real-world challenges. 
+I'm currently pursuing my B.Tech Computer Science Engineering sepcialization in AI & ML with a strong foundation in Analytics, programming, and problem-solving.</h3><br>
 <p>&nbsp;</p>
 
 <p>
@@ -37,12 +38,11 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=sandeepkumar96674&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
   
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=sandeepkumar96674&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
