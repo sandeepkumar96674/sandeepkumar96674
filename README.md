@@ -63,7 +63,7 @@ I'm currently pursuing my B.Tech Computer Science Engineering sepcialization in 
 
 ![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeepkumar96674\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-[![Sandeep's GitHub Streak](https://streak-stats.demolab.com/?user=sandeepkumar96674&theme=midnight-purple)](https://git.io/streak-stats)
+[![Sandeep's GitHub Streak](https://streak-stats.demolab.com/?user=sandeepkumar96674&theme=midnight-purple)]
 
 </div>
 
