@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
 <h3 align="center">A boy unraveling the mysteries of Entangled Data !!</h3>
 <h3 align="center">🔭 I’m currently exploring the world of Data Analytics and Machine Learning and eager to apply my skills to real-world challenges. 
-I'm currently pursuing my B.Tech Computer Science Engineering sepcialization in AI & ML with a strong foundation in Analytics, programming, and problem-solving.</h3><br>
+I'm currently pursuing my B.Tech Computer Science Engineering sepcialization in AI & ML with a strong foundation in Analytics, programming, Community Activity and problem-solving.</h3><br>
 <p>&nbsp;</p>
 
 <p>
