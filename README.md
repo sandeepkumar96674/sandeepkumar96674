@@ -1,11 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
-<h3 align="center">A boy unraveling the mysteries of Entangled Data !!</h3>
-
 <p align="center">
-  <img src="(https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I+am+Sandeep.+;Data+Science+Enthusiast+;A+Data+Analyst)">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&Center=true&pause=1000&width=435&lines=Hello%2C+I+am+Sandeep.+;A+Data+Science+Enthusiast+;A+Data+Analyst;">
 </p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I+am+Sandeep.+;Data+Science+Enthusiast+;A+Data+Analyst)]([https://sandeepkumar96674.github.io/Sandeep_Kumar.github.io/])
 
 <h3 align="center">🔭 I’m currently exploring the world of Data Analytics and Machine Learning and eager to apply my skills to real-world challenges. 
 I'm currently pursuing my B.Tech Computer Science Engineering sepcialization in AI & ML with a strong foundation in Analytics, programming, Community Activity and problem-solving.</h3><br>
