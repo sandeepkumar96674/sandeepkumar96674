@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
 <h3 align="center">A boy unraveling the mysteries of Entangled Data !!</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ec9783&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋🏻+I am Sandeep;+Data Science+Enthusiast+☀;Data+Analyst+💻;">
+</p>
+
 <h3 align="center">🔭 I’m currently exploring the world of Data Analytics and Machine Learning and eager to apply my skills to real-world challenges. 
 I'm currently pursuing my B.Tech Computer Science Engineering sepcialization in AI & ML with a strong foundation in Analytics, programming, Community Activity and problem-solving.</h3><br>
 <p>&nbsp;</p>
