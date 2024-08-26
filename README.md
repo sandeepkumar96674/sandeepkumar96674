@@ -2,7 +2,7 @@
 <h3 align="center">A boy unraveling the mysteries of Entangled Data !!</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/demo/?lines=Hello%2C+I+am+Sandeep.+;Data+Science+Enthusiast+;A+Data+Analyst">
+  <img src="(https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I+am+Sandeep.+;Data+Science+Enthusiast+;A+Data+Analyst)">
 </p>
 
 <h3 align="center">🔭 I’m currently exploring the world of Data Analytics and Machine Learning and eager to apply my skills to real-world challenges. 
