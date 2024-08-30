@@ -15,7 +15,7 @@
 <p align="left"> <a href="https://www.instagram.com/sarcastic_sandy_0_0" target="blank"><img src="https://img.shields.io/badge/Follow-%40sarcastic_sandy_0_0-%23E4405F?style=for-the-badge&logo=instagram" alt="sarcastic_sandy_0_0" /></a> </p>
 
 -  📫 How to reach me **sandeepkumar737286@gmail.com**
-- ⚡ Fun fact : **Data scientists can find hidden insights in petabytes of data faster than a caffeinated squirrel solving a jigsaw puzzle!**
+- ⚡ Fun fact : **Analyzing data is like detective work, where every anomaly is a clue, and every pattern is a lead!**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sandeep-kumar-488a1b222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-kumar-488a1b222" height="30" width="40" /></a>
