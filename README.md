@@ -61,7 +61,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">GitHub Statistics:</h3>
 <div align="center">
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepkumar96674&show_icons=true&locale=en&layout=compact" alt="sandeepkumar96674" /></p>
 
