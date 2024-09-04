@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&Center=true&pause=1000&width=435&lines=Hello%2C+I+am+Sandeep+Kumar.+;A+Data+Science+Enthusiast+;A+Data+Analyst;Community+Contributer;">
 </p>
 
-<h3 align="center">🔭 I’m currently exploring the world of Data Science - Machine Learning and eager to apply my skills to real-world challenges. </h3><br>
+<h3 align="center">🔭 I’m currently exploring the world of Data Science - Machine Learning and eager to apply my skills to solve real-world Problems. </h3><br>
 
  <p>&nbsp;</p>
   - I'm currently pursuing my B.Tech Computer Science Engineering sepcialization in AI & ML with a strong foundation in Data Analytics, programming and problem-solving.
