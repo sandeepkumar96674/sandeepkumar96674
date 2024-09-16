@@ -42,14 +42,7 @@
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
 
 ![](https://github-profile-trophy.vercel.app/?username=sandeepkumar96674&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=sandeepkumar96674&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
-<br>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sandeepkumar96674&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
