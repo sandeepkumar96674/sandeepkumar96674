@@ -57,6 +57,7 @@
 <h3 align="left">GitHub Statistics:</h3>
 <div align="center">
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepkumar96674&show_icons=true&locale=en&layout=compact" alt="sandeepkumar96674" /></p>
+ [GitHub Streak] (https://streak-stats.demolab.com/?user=sandeepkumar96674&theme=radical)]
 
 ![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeepkumar96674\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
