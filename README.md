@@ -14,7 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepkumar96674&label=Visitors&color=5cc0ff&style=plastic" alt="Sandeep Kumar" /> </p>
 <p align="left"> <a href="https://www.instagram.com/sarcastic_sandy_0_0" target="blank"><img src="https://img.shields.io/badge/Follow-%40sarcastic_sandy_0_0-%23E4405F?style=for-the-badge&logo=instagram" alt="sarcastic_sandy_0_0" /></a> </p>
 
--  📫 How to reach me **sandeepkumar737286@gmail.com**
+-  📫 Reach me on **sandeepkumar737286@gmail.com**
 - ⚡ Fun fact : **Analyzing data is like detective work, where every anomaly is a clue, and every pattern is a lead!**
 <h3 align="left">Connect with me here 👇:</h3>
 <p align="left">
