@@ -15,8 +15,8 @@
 <p align="left"> <a href="https://www.instagram.com/sarcastic_sandy_0_0" target="blank"><img src="https://img.shields.io/badge/Follow-%40sarcastic_sandy_0_0-%23E4405F?style=for-the-badge&logo=instagram" alt="sarcastic_sandy_0_0" /></a> </p>
 
 -  📫 Reach me on **sandeepkumar737286@gmail.com**
-- ⚡ Fun fact : **Analyzing data is like detective work, where every anomaly is a clue, and every pattern is a lead.**
-<h3 align="left">Connect with me here 👇:</h3>
+- ⚡ Fun fact : **Analyzing data is like detective work, where every anomaly is a clue and every pattern is a lead.**
+<h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sandeep-kumar-488a1b222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-kumar-488a1b222" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kumarsandeep1102?hr_r=1" target="blank"><img align="center" src="https://tse2.mm.bing.net/th?id=OIP.SP5AjgaqCwsd1UVtScTD5gHaHa&pid=Api&P=0&h=180" alt="kumarsandeep1102" height="30" width="40" /></a>
