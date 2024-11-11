@@ -5,7 +5,7 @@
 <h3 align="center">🔭 I am currently exploring the world of Data Science & Machine Learning and eager to apply my skills to solve real-world Problems and make lives easy. </h3><br>
 
  <p>&nbsp;</p>
-  - I am final year Student persuing B.Tech Computer Science Engineering specialization in AI-ML with strong foundation Data Analytics, Programming and problem-solving.
+  - I am final year Student persuing B.Tech Computer Science Engineering specialization in AI-ML with strong foundation Data Analytics, Programming,DSA and problem-solving.
 <p>&nbsp;</p>
 
 <p>
