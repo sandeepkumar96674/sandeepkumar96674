@@ -59,9 +59,8 @@
 
 ![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeepkumar96674\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepkumar96674&show_icons=true&locale=en&layout=compact" alt="Sandeep Kumar" /></p>
 </div>
-
-<br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -69,5 +68,7 @@
 
 ![Sandeep's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sandeepkumar96674&custom_title=Sandeep's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
+
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
