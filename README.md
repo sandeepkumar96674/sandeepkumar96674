@@ -18,7 +18,7 @@
 - ⚡ Fun fact : **Analyzing data is like detective work, where every anomaly is a clue and every pattern is a lead.**
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/the-sandeep-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sandeep" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/the-sandeep-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sandeep" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kumarsandeep1102?hr_r=1" target="blank"><img align="center" src="https://tse2.mm.bing.net/th?id=OIP.SP5AjgaqCwsd1UVtScTD5gHaHa&pid=Api&P=0&h=180" alt="kumarsandeep1102" height="30" width="40" /></a>
 <a href="https://leetcode.com/Sandeep_Kumar96674/" target="blank"><img align="center" src="https://tse4.mm.bing.net/th?id=OIP.DENauUixUf2DS-VfgKCXlAHaD2&pid=Api&P=0&h=180" alt="Sandeep_Kumar96674" height="30" width="40" /></a>
 <a href="https://www.codingninjas.com/studio/profile/2cb29e1f-7667-49cc-ac64-4a7467107dc6" target="blank"><img align="center" src="https://tse1.mm.bing.net/th?id=OIP.YGMKfBEvia_lF6TyOdbQfwHaHa&pid=Api&P=0&h=180" alt="Sandeep_Kumar" height="30" width="40" /></a>
